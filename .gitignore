@@ -1,2 +1,4 @@
 *.swp
-
+go/src/bin/*
+go/src/pkg/*
+go/src/src/*
